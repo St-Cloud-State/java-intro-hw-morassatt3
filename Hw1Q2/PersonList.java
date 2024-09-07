@@ -1,6 +1,6 @@
 import java.util.LinkedList;
 
-public class PersonList {
+public class PersonList { // Person List
     private LinkedList<Person> list;
 
     public PersonList() {
